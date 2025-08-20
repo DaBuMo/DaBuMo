@@ -35,7 +35,6 @@ Docker · Git · GitHub · Postman · AWS · GitHub Actions · Figma
 
 ## 🤝 Let’s Connect
 
-📫 Email: tu.email@example.com  
-🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)  
-💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+📫 Email: dburgosmoreno@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/dabumo/
 
