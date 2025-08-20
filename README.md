@@ -33,13 +33,6 @@ Docker · Git · GitHub · Postman · AWS · GitHub Actions · Figma
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DaBuMo&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBuMo&layout=compact&theme=github_dark)
-
----
-
 ## 🤝 Let’s Connect
 
 📫 Email: tu.email@example.com  
